@@ -9,7 +9,7 @@ ABSTRACT:
    The aim of the study is to analyze an Mexican Restaurant’s customer data using ID3 algorithm. The data in which customers food rating    for the food in the restaurant, rating and service rating for restaurant and cuisine types that customer prefer has been considered      for future classification. ID3 algorithm (Decision Tree) is used to find the customer rating towards food, service and restaurant. 
    The cuisine that customers preferable also determined by this algorithm. Finally after finding the future rating values which type of    food rating, service rating and rating those customers given is identified. The most preferable cuisine from the customers is            determined.
    
-INTRODUCTION
+INTRODUCTION:
   Running a thriving local restaurant for first time could not be impressed well. 
   There are often all sorts of unexpected problems that would affect the business and it could make difficult for recovery. 
   One common idea among the restaurants is to determine how many customers arrive each day and how much revenue they will generate         everyday.
