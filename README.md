@@ -1,8 +1,9 @@
 # Comparison-of-Parallelization-and-Serialization-for-Restaurant-Visitor-Forecasting
 
 NOTE:
-  At the  time of compiling, refer the way of compiling given below. Since 'log2' is being used in code '-lm' should be added.
-  cc <filename.c> -lm
+  At the  time of compiling, refer the way of compiling given below. 
+  Since 'log2' is being used in code '-lm' should be added.
+  " cc <filename.c> -lm "
   
 ABSTRACT:
    The aim of the study is to analyze an Mexican Restaurant’s customer data using ID3 algorithm. The data in which customers food rating      for the food in the restaurant, rating and service rating for restaurant and cuisine types that customer prefer has been considered for    future classification. ID3 algorithm (Decision Tree) is used to find the customer rating towards food, service and restaurant. 
